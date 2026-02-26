@@ -1,0 +1,22 @@
+{
+  "name": "random-gif-bot",
+  "version": "1.0.0",
+  "description": "os mlk é liso",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "random-gifs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^12.6.2",
+    "discord.js": "^14.21.0",
+    "sharp": "^0.34.5"
+  }
+}
